@@ -18,10 +18,7 @@ namespace Workflow.Specs.Helper
 			var client11 = new HttpClient();
 			var client12 = new HttpClient();
 			var client13 = new HttpClient();
-			var client14 = new HttpClient();
-			var client15 = new HttpClient();
-			var client16 = new HttpClient();
-			var client17 = new HttpClient();
+			var client14 = new HttpClient();		
 		}
 	}
 }
